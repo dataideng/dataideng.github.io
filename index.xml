@@ -13,6 +13,15 @@
     
     <item>
       <title>My First Post</title>
+      <link>https://dataideng.github.io/post/matplotlib_stu/</link>
+      <pubDate>Mon, 01 Oct 2018 15:36:50 +0800</pubDate>
+      
+      <guid>https://dataideng.github.io/post/matplotlib_stu/</guid>
+      <description>%matplotlib inline import matplotlib.pyplot as plt import numpy as np import matplotlib.mlab as mlab  mu = 100 # mean of distribution sigma = 15 # standard deviation of distribution x = mu + sigma * np.random.randn(10000)  num_bins = 50  n, bins, patches = plt.hist(x, num_bins, normed=1, facecolor=&#39;green&#39;, alpha=0.5)  C:\Users\LiChunlin\Anaconda3\lib\site-packages\matplotlib\axes\_axes.py:6462: UserWarning: The &#39;normed&#39; kwarg is deprecated, and has been replaced by the &#39;density&#39; kwarg. warnings.warn(&amp;quot;The &#39;normed&#39; kwarg is deprecated, and has been &amp;quot;  y = mlab.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
       <link>https://dataideng.github.io/post/my-first-post/</link>
       <pubDate>Mon, 01 Oct 2018 15:36:50 +0800</pubDate>
       

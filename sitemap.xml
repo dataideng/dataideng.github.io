@@ -3,19 +3,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dataideng.github.io/post/my-first-post/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dataideng.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://dataideng.github.io/tags/development/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dataideng.github.io/categories/development/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dataideng.github.io/categories/golang/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dataideng.github.io/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dataideng.github.io/post/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dataideng.github.io/tags/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dataideng.github.io/tags/golang/</loc>
+    <lastmod>2018-10-01T15:36:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
